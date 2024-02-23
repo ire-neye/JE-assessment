@@ -37,4 +37,4 @@ Before running the tests, ensure you have the following installed:
 
 ## Contact
 
-For any questions or assistance regarding this test suite, please contact me at ireneemeshili.gmail.com.
+For any questions or assistance regarding this test suite, please contact me at ireneemeshili@gmail.com.
