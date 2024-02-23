@@ -23,23 +23,17 @@ Before running the tests, ensure you have the following installed:
 
 1. Open the Test Explorer in Visual Studio (`Test` > `Test Explorer`).
 2. Select the test method(s) you want to run or click `Run All` to execute all tests.
-3. Monitor the test execution in the Test Explorer window and review the test results.
+3. Monitor the test execution in the Test Explorer window and review the results.
 
 ## Test Structure
 
-- `UnitTest1.cs`: Contains the test methods for various features and interactions on the Sauce Labs website.
+- `UnitTest1.cs`: Contains the Sauce Labs website's test methods for various features and interactions.
 
 ## Test Environment
 
 - **Browser**: Chrome
 - **Web Application URL**: [https://www.saucedemo.com/](https://www.saucedemo.com/)
-- **Test Data**: Test data may include user credentials, product information, and checkout details.
-
-## Customization
-
-- Modify the test code in `UnitTest1.cs` to add new test cases or modify existing ones.
-- Adjust the setup and configuration based on your specific testing requirements.
-- Customize the README file to include additional information about the test suite or testing process.
+- **Test Data**: Test data included user credentials, product information, and checkout details.
 
 ## Contact
 
