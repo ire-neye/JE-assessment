@@ -27,7 +27,7 @@ Before running the tests, ensure you have the following installed:
 
 ## Test Structure
 
-- `UnitTest1.cs`: Contains the Sauce Labs website's test methods for various features and interactions.
+- `UnitTest.cs`: Contains the Sauce Labs website's test methods for various features and interactions.
 
 ## Test Environment
 
