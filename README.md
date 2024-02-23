@@ -16,7 +16,7 @@ Before running the tests, ensure you have the following installed:
 ## Setup
 
 1. Clone or download the repository to your local machine.
-2. Open the solution file (`UnitTestProject_Practice.sln`) in Visual Studio.
+2. Open the solution file (`J&E-Assessment.sln`) in Visual Studio.
 3. Build the solution to restore NuGet packages and ensure everything compiles successfully.
 
 ## Running the Tests
